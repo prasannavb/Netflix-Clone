@@ -5,6 +5,7 @@ Welcome to my Netflix homepage clone! This project replicates the design and fun
 <ul>
   <li>Features</li>
   <li>Tech Stack</li>
+  <li>Installation</li>
   <li>Disclaimer</li>
 </ul>
 
