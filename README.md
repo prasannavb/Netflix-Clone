@@ -25,9 +25,9 @@ Welcome to my Netflix homepage clone! This project replicates the design and fun
 <h2>Installation</h2>
 <p>To install and run this project locally, follow these steps:</p>
 <ul>
-  <li>Clone the repository:</li>
+  <li><b>Clone the repository:</b></li>
   <code>git clone https://github.com/prasannavb/Netflix-Clone.git</code>
-  <li>Navigate to the project directory:</li>
+  <li><b>Navigate to the project directory:</b></li>
   <code>cd netflix-clone</code>
   <li>Open the <code>index.html</code> file in your web browser.</li>
 </ul>
